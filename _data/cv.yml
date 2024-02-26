@@ -28,34 +28,38 @@
 #        - Description 1.
 #        - Description 2.
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
+ - title: Experience
+   type: time_table
+   contents:
+     - title: Applied Scientist Intern
+       institution: Amazon Lab126
+       year: Summer'23
+       description: Project: Zero-Shot Object Goal Navigation
+         - Developed a hybrid approach integrating foundational models (esp. Visual Language Models (VLM)) with conventional
+           model-based methods to achieve autonomous object goal navigation for ground robots.
 #         - Description 2.
 #         - title: Description 3.
 #           contents:
 #             - Sub-description 1.
 #             - Sub-description 2.
-#     - title: Visiting Professor
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 1933
-#       description:
-#         - Description 1.
-#         - Description 2.
+     - title: Applied Scientist Intern
+       institution: Amazon Lab126
+       year: Summer'22
+       description: Project: Reducing Robot Freezing Behavior
+         - Explored cost formulations to mitigate the robot freezing issue for a Model Predictive Control (MPC) based trajectory planner, 
+           enhancing navigation behavior in probabilistic scenarios.
+         - Demonstrated that the developed cost formulation complies with stability and safety definitions commonly associated with control barrier functions.
+     - title: Teaching Assistant
+       institution: University of Maryland, College Park
+       year: Fall'19
 
-#     - title: Director
-#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#       year: 1917-1933
-
-#     - title: Professor of Theoretical Physics
-#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#       year: 1911 - 1917
-#       description:
+     - title: Research Intern
+       institution: McMaster University, Canada
+       year: Summer 2016
+       description: Software Development for Autonomous Collaborative Robotic Arm
+         - Successfully implemented a model based collision avoidance for a CRS F3 robotic arm using point cloud data from Microsoft Kinect.
+         - Implemented a vision-based modeling and grasping software to autonomously identify the object in the workspace, model the object in 3D, 
+           and compute the end-effector orientation for an effective grasp.
 
 #     - title: Associate Professor of Theoretical Physics
 #       institution: University of Zurich, Zurich, Switzerland

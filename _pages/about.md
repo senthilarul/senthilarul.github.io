@@ -6,7 +6,7 @@ subtitle: <a href='Arul_Resume_2024_Jan.pdf'>Affiliations</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: DSC00719.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: sarul1@umd.edu</p>

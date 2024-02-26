@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='Arul_Resume_2024_Jan.pdf'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='Arul_Resume_2024_Jan.pdf'>Affiliations</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Email: sarul1@umd.edu</p>
     <p>5116 Brendon Iribe Center</p>
     <p>University of Maryland</p>
     <p>College Park, MD 20740</p>

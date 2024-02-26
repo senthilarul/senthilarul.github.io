@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='Arul_Resume_2024_Jan.pdf'>Affiliations</a>.
+subtitle: Graduate Research Assistant
 
 profile:
   align: right

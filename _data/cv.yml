@@ -11,22 +11,22 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.S. and Ph.D.
+    - title: M.S. and Ph.D., Electrical and Computer Engineering
       institution: University of Maryland, College Park, United States
-      year: 2017 -
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
+      year: 2017 - Current
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+    - title: B.Tech Instrumentation and Control Engineering
       institution: National Institute of Technology, Tiruchirappalli, India
       year: 2013 - 2017
-      description:
-        - Description 1.
-        - Description 2.
+#      description:
+#        - Description 1.
+#        - Description 2.
 
 # - title: Experience
 #   type: time_table

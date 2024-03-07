@@ -35,20 +35,21 @@
       institution: Amazon Lab126
       year: Summer 23
       description: Project- Zero-Shot Object Goal Navigation
-        - Developed a hybrid approach integrating foundational models (esp. Visual Language Models (VLM)) with conventional
-          model-based methods to achieve autonomous object goal navigation for ground robots.
+        contents: Developed a hybrid approach integrating foundational models (esp. Visual Language Models (VLM)) with conventional 
+                  model-based methods to achieve autonomous object goal navigation for ground robots.
 #         - Description 2.
 #         - title: Description 3.
 #           contents:
 #             - Sub-description 1.
 #             - Sub-description 2.
-     # - title: Applied Scientist Intern
-     #   institution: Amazon Lab126
-     #   year: Summer'22
-     #   description: Project: Reducing Robot Freezing Behavior
-     #     - Explored cost formulations to mitigate the robot freezing issue for a Model Predictive Control (MPC) based trajectory planner, 
-     #       enhancing navigation behavior in probabilistic scenarios.
-     #     - Demonstrated that the developed cost formulation complies with stability and safety definitions commonly associated with control barrier functions.
+     - title: Applied Scientist Intern
+       institution: Amazon Lab126
+       year: Summer 22
+       description: Project Reducing Robot Freezing Behavior
+         contents:
+         Explored cost formulations to mitigate the robot freezing issue for a Model Predictive Control (MPC) based trajectory planner, 
+         enhancing navigation behavior in probabilistic scenarios.
+         Demonstrated that the developed cost formulation complies with stability and safety definitions commonly associated with control barrier functions.
          
      # - title: Teaching Assistant
      #   institution: University of Maryland, College Park

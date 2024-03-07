@@ -28,15 +28,15 @@
 #        - Description 1.
 #        - Description 2.
 
- # - title: Experience
- #   type: time_table
- #   contents:
- #     - title: Applied Scientist Intern
- #       institution: Amazon Lab126
- #       year: Summer'23
-       # description: Project: Zero-Shot Object Goal Navigation
-       #   - Developed a hybrid approach integrating foundational models (esp. Visual Language Models (VLM)) with conventional
-       #     model-based methods to achieve autonomous object goal navigation for ground robots.
+- title: Experience
+  type: time_table
+  contents:
+    - title: Applied Scientist Intern
+      institution: Amazon Lab126
+      year: Summer'23
+      description: Project: Zero-Shot Object Goal Navigation
+        # - Developed a hybrid approach integrating foundational models (esp. Visual Language Models (VLM)) with conventional
+        #   model-based methods to achieve autonomous object goal navigation for ground robots.
 #         - Description 2.
 #         - title: Description 3.
 #           contents:

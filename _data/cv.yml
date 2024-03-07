@@ -46,8 +46,8 @@
       institution: Amazon Lab126
       year: Summer 22
       description: Project- Reducing Robot Freezing Behavior
-        contents: Explored cost formulations to mitigate the robot freezing issue for a Model Predictive Control (MPC) based trajectory planner, 
-        enhancing navigation behavior in probabilistic scenarios.
+        # contents: Explored cost formulations to mitigate the robot freezing issue for a Model Predictive Control (MPC) based trajectory planner, 
+        #           enhancing navigation behavior in probabilistic scenarios.
         # contents: Demonstrated that the developed cost formulation complies with stability and safety definitions commonly associated with control barrier functions.
          
      # - title: Teaching Assistant

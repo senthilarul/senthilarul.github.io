@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate at University of Maryland, College Park 
-Robotics | Motion Planning | Planning under Uncertainty | Reinforcement Learning 
+subtitle: Ph.D. Candidate at University of Maryland College Park 
+subtitle: Robotics | Motion Planning | Planning under Uncertainty | Reinforcement Learning 
 
 profile:
   align: right

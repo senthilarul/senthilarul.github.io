@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate at University of Maryland College Park <br>
-<b>Robotics | Motion Planning | Planning under Uncertainty | Reinforcement Learning </b>
+subtitle: Ph.D. Candidate at University of Maryland College Park <br> <b>Robotics | Motion Planning | Planning under Uncertainty | Reinforcement Learning </b>
 
 profile:
   align: right

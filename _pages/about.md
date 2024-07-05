@@ -6,8 +6,8 @@ subtitle: Ph.D. Candidate at University of Maryland College Park <br> <b>Robotic
 
 
 profile: 
-  align: right <br><br>
-  image: DSC00719.JPG
+  align: right 
+  image: <br><br> DSC00719.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: sarul1@umd.edu</p>

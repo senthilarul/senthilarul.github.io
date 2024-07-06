@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: sarul1@umd.edu</p>
-    <p>5116 Brendon Iribe Center</p>
     <p>University of Maryland</p>
     <p>College Park, MD 20740</p>
 

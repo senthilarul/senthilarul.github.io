@@ -12,6 +12,7 @@ profile:
     <p>Email: sarul1@umd.edu</p>
     <p>University of Maryland</p>
     <p>College Park, MD 20740</p>
+    <p> Curriculum Vitae <a href="https://senthilarul.github.io/assets/pdf/Arul_Resume_Gen.pdf">(link)</a> </p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts

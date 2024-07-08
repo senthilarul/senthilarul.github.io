@@ -7,7 +7,7 @@ subtitle: Ph.D. Candidate at University of Maryland College Park <br> <b>Robotic
 profile: 
   align: right 
   image: DSC00719.JPG
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <br><p>Email: sarul1@umd.edu</p>
     <p>Curriculum Vitae <a href="https://senthilarul.github.io/assets/pdf/Arul_Resume_Gen.pdf">(link)</a> </p>

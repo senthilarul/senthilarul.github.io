@@ -6,13 +6,22 @@
     "email": "sarul1@umd.edu",
     "url": "https://senthilarul.github.io/"
   },
+  "Education": [
+    {
+      "name": "University of Maryland College Park",
+      "position": "Ph.D. and M.S. Electrical and Computer Engineering",
+      "startDate": "2019-08-01",
+      "endDate": "Present",
+      "highlights": ["Robotics"]
+    }
+  ],  
   "work": [
     {
       "name": "University of Maryland College Park",
       "position": "Graduate Research Assisstant",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "highlights": ["Robotics"]
+      "startDate": "2020-01-01",
+      "endDate": "Present",
+      "highlights": ["Robotics","Motion Planning"]
     }
   ],
   "languages": [

@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <br><p>Email: sarul1@umd.edu</p>
-    <p>Curriculum Vitae <a href="https://senthilarul.github.io/assets/pdf/Arul_Resume_Gen.pdf">(link)</a> </p>
+    <p>Curriculum Vitae <a href="https://senthilarul.github.io/assets/pdf/Arul_Resume_General.pdf">(link)</a> </p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts

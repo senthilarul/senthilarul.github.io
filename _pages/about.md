@@ -9,7 +9,7 @@ profile:
   image: DSC00719.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <br><p></p><p>Email: sarul1@umd.edu</p>
+    <br><p></p><p></p><p>Email: sarul1@umd.edu</p>
     <p>Curriculum Vitae <a href="https://senthilarul.github.io/assets/pdf/Arul_Resume_Sept.pdf">(link)</a> </p>
 
 news: false # includes a list of news items

@@ -2,6 +2,9 @@ github_users:
   - senthilarul
 
 github_repos:
+  - senthilarul/QLearning-ENPM808X
+  - senthilarul/Midterm-APathPlanning
+  - senthilarul/d-orca
 #  - alshedivat/al-folio
 #  - twbs/bootstrap
 #  - jekyll/jekyll

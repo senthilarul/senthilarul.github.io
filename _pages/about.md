@@ -23,17 +23,8 @@ I hold a bachelor's degree in Instrumentation and Control Engineering from the N
 I am <br> proficient in C++, Python, and TensorFlow, with a strong publication
 record in <br> top-tier robotics and AI conferences.
 
+---
 
----
-layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
----
 
 <!-- pages/projects.md -->
 <div class="projects">

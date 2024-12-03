@@ -12,7 +12,7 @@ profile:
     <br><p></p><p></p><p>Email: sarul1@umd.edu</p>
     <p><center><a href="https://senthilarul.github.io/assets/pdf/Arul_CV_Github.pdf">Curriculum Vitae</a></center></p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

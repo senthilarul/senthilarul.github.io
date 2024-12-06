@@ -21,51 +21,5 @@
       "endDate": "2022-08",
       "summary": "Explored novel cost formulations using Model Predictive Control (MPC) to reduce the robot freezing phenomenon in probabilistic navigation scenarios. Formulated a cost compliant with stability and safety definitions associated with control barrier functions, enabling safe planning under uncertainty."
     }
-  ],
-  "education": [
-    {
-      "institution": "University of Maryland, College Park, United States",
-      "location": "College Park, Maryland",
-      "url": "https://www.umd.edu/",
-      "studyType": "PhD",
-      "startDate": "2019",
-      "endDate": "2021",
-      "score": "10",
-      "courses": ["Electrical and Computer Engineering, Specializing in Robotics, Motion Planning and Reinforcement Learning"]
-    },
-    {
-      "institution": "National Institute of Technology",
-      "location": "Tiruchirappalli, India",
-      "studyType": "B.Tech",
-      "startDate": "2013",
-      "endDate": "2017",
-      "courses": ["Instrumentation and Control Engineering"]
-    }
-  ],
-  "languages": [
-    {
-      "language": "Tamil",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Robotics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Motion Planning",
-        "Planning under Uncertainty",
-        "Multi-Robot Systems",
-        "Reinforcement Learning",
-        "Control Theory",
-        "Visual Language Action (VLA) Models"
-      ]
-    }
   ]
 }

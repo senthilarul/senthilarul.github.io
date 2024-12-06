@@ -15,7 +15,7 @@
   contents:
     - title: M.S. and Ph.D., Electrical and Computer Engineering
       institution: University of Maryland, College Park, United States
-      year: 2017 - Current
+      year: 2019 - Current
 #      description:
 #        - Description 1.
 #        - Description 2.
@@ -37,7 +37,8 @@
       institution: Amazon Lab126
       year: Summer 23
       description: Object Goal Navigation
-      contents: Developed a hybrid approach integrating foundational models (esp. Visual Language Models (VLM)) with conventional 
+      - Developed a hybrid approach integrating foundational models (esp. Visual Language Models (VLM)) with conventional 
+      # contents: 
         #           model-based methods to achieve autonomous object goal navigation for ground robots.
 #         - Description 2.
 #         - title: Description 3.

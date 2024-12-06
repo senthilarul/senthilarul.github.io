@@ -37,7 +37,6 @@
       institution: Amazon Lab126
       year: Summer 23
       description: Object Goal Navigation
-      - Developed a hybrid approach integrating foundational models (esp. Visual Language Models (VLM)) with conventional 
       # contents: 
         #           model-based methods to achieve autonomous object goal navigation for ground robots.
 #         - Description 2.
@@ -49,7 +48,8 @@
       institution: Amazon Lab126
       year: Summer 22
       description: Reducing Robot Freezing Behavior
-      contents: Explored cost formulations to mitigate the robot freezing issue for a Model Predictive Control (MPC) based trajectory planner, enhancing navigation behavior in probabilistic scenarios.
+      contents: 
+        - Explored cost formulations to mitigate the robot freezing issue for a Model Predictive Control (MPC) based trajectory planner, enhancing navigation behavior in probabilistic scenarios.
         # contents: Demonstrated that the developed cost formulation complies with stability and safety definitions commonly associated with control barrier functions.
          
      # - title: Teaching Assistant

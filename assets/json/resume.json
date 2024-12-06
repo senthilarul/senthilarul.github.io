@@ -1,25 +1,17 @@
 {
   "basics": {
-    "name": "Senthil Hariharan Arul",
-    "label": "Ph.D. Candidate",
+    "name": "Albert Einstein",
+    "label": "Scientist",
     "image": "",
-    "email": "sarul1@umd.edu",
-    "url": "https://senthilarul.github.io/"
-  },
-  "work": [
-    {
-      "name": "Amazon Lab126",
-      "position": "Applied Scientist Intern",
-      "startDate": "2023-05",
-      "endDate": "2023-08",
-      "summary": "Developed and tested object-goal navigation algorithms in complex indoor environments, focusing on ensuring robustness and reliability in dynamic, real-world scenarios by addressing challenges of occlusions and object displacements.",
-    },
-    {
-      "name": "Amazon Lab126",
-      "position": "Applied Scientist Intern",
-      "startDate": "2022-05",
-      "endDate": "2022-08",
-      "summary": "Explored novel cost formulations using Model Predictive Control (MPC) to reduce the robot freezing phenomenon in probabilistic navigation scenarios. Formulated a cost compliant with stability and safety definitions associated with control barrier functions, enabling safe planning under uncertainty."
+    "email": "albert@einstein.de",
+    "phone": "(912) 123-4567",
+    "url": "https://alshedivat.github.io/al-folio/",
+    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     }
-  ]
 }

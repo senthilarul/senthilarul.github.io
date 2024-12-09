@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Household Robots
+description: Navigation Challenges in Constrained Environments
+img: assets/img/publication_preview/new_formulation.gif
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

@@ -2,7 +2,7 @@
 layout: page
 title: RL-based Navigation
 description: Reinforcement learning based multi-robot navigation by learning selective communication.
-img: assets/img/publication_preview/dmca_threerobot.gif
+img: assets/img/publication_preview/WhatComm_1.gif
 redirect: https://unsplash.com
 importance: 3
 category: work

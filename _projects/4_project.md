@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Household Robots
-description: Navigation Challenges in Constrained Environments
+description: Navigation challenging household environments
 img: assets/img/publication_preview/new_formulation.gif
 importance: 3
 category: work

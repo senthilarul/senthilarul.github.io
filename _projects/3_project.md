@@ -2,7 +2,7 @@
 layout: page
 title: project 3
 description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/publication_preview/dmca_threerobot.gif
 redirect: https://unsplash.com
 importance: 3
 category: work

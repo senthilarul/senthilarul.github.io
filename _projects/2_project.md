@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Dense Multi-Robot Navigation 
+description: Decentralized navigation in dense scenarios avoiding deadlocks
 img: assets/img/publication_preview/vrvo.gif
 importance: 2
 category: work

@@ -6,7 +6,7 @@ description: A growing collection of research projects.
 nav: false
 nav_order: 3
 display_categories: [work]
-horizontal: false
+horizontal: true
 ---
 <!-- pages/projects.md -->
 <div class="projects">

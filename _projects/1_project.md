@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Household Robots
+description: Navigatipn challenges for consumer robots in everyday environments.
 img: assets/img/publication_preview/new_formulation.gif
 importance: 1
 category: work

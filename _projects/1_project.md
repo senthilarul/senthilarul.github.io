@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Household Robots
-description: Navigatipn challenges for consumer robots in everyday environments.
+title: Quadrotor Collision Avoidance
+description: Decentralized collision avoidance for multiple quadrotors.
 img: assets/img/publication_preview/dcad.png
 importance: 1
 category: work

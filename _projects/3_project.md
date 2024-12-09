@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: RL-based Navigation
+description: Reinforcement learning based multi-robot navigation by learning selective communication.
 img: assets/img/publication_preview/dmca_threerobot.gif
 redirect: https://unsplash.com
 importance: 3

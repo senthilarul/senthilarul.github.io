@@ -2,7 +2,7 @@
 layout: page
 title: Household Robots
 description: Navigatipn challenges for consumer robots in everyday environments.
-img: assets/img/publication_preview/new_formulation.gif
+img: assets/img/publication_preview/dcad.png
 importance: 1
 category: work
 related_publications: true

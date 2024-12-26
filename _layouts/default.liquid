@@ -1,12 +1,13 @@
 <!doctype html>
 <html lang="{{ site.lang }}">
   <!-- Head -->
-  <head>
+<head>
     {% if page.redirect %}
       <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/">
     {% endif %}
     {% include head.liquid %}
 
+    <!-- Structured Data for Senthil Arul -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -19,11 +20,11 @@
         "https://www.linkedin.com/in/senthilarul",
         "https://github.com/senthilarul"
       ],
-      "description": "Senthil Arul is a robotics researcher focusing on multi-robot navigation, reinforcement learning, and AI development.",
-     }
+      "description": "Senthil Arul is a robotics researcher focusing on multi-robot navigation, reinforcement learning, and AI development."
+    }
     </script>
+</head>
 
-  </head>
 
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">

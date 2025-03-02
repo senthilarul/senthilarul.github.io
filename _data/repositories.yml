@@ -1,6 +1,8 @@
 # github_users:
 # - senthilarul
 
+repo_description_lines_max: 2
+
 github_repos:
   - senthilarul/QLearning-ENPM808X
   - senthilarul/Midterm-APathPlanning

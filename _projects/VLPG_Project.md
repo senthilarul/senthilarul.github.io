@@ -34,11 +34,11 @@ To give your project a background in the portfolio page, just add the img tag to
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/vlpg_framework.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    (Fig. a) The overall framework of VLPG-Nav. Given an object-related prompt, an initial viewpoint is computed using the visual language pose graph (VLPG) and clustering. Subsequently, we center the object in the camera image through our proposed object-centering cost function. If the object is not in view at the chosen viewpoint, we replan using an object localization probability map constructed using the local occupancy map and VLPG. (Fig. b) A real-world example where the robot is tasked with viewing a plant. The figure shows the camera view from the initial viewpoint, and the robot successfully views the plant. (Fig. c) In this case, we obstruct the initial viewpoint with an obstacle. The figure shows the obstructed camera view from the initial viewpoint. (Fig. d) Due to occlusion, the local search identifies an alternative viewpoint, enabling the robot to achieve an unobstructed view of the plant.
 </div>
 
 You can also put regular text between your rows of images.

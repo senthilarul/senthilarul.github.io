@@ -3,10 +3,10 @@ layout: page
 title: research
 permalink: /research/
 description: A collection of research projects.
-nav: false
+nav: true
 nav_order: 3
 display_categories: [work]
-horizontal: true
+horizontal: false
 ---
 <!-- pages/projects.md -->
 <div class="projects">

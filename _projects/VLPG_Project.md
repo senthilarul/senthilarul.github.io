@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VLPG-Nav : Object Navigation Using Visual Language Pose Graph and Object Localization Probability Maps
+title: VLPG-Nav Object Navigation Using Visual Language Pose Graph and Object Localization Probability Maps
 description: Advancing Visual Language Navigation and Object Goal Navigation with VLPG-Nav
 img: assets/img/publication_preview/new_formulation.gif
 importance: 3

@@ -18,13 +18,13 @@ VLPG-Nav, an object-goal navigation method designed for low-compute household ro
 
 <ol>
     <li>
-        **Initial Viewpoint Prediction:** We construct a visual language pose graph (VLPG) during environment ex- ploration, which is a graph of the robot’s pose and the corresponding VL embedding. Given a textual prompt, we use VLPG to identify a set of relevant nodes com- puted based on cosine similarity, and the viewpoints are clustered to compute a suitable viewpoint.
+        <b>Initial Viewpoint Prediction:</b> We construct a visual language pose graph (VLPG) during environment ex- ploration, which is a graph of the robot’s pose and the corresponding VL embedding. Given a textual prompt, we use VLPG to identify a set of relevant nodes com- puted based on cosine similarity, and the viewpoints are clustered to compute a suitable viewpoint.
     </li>
     <li>
-        **Object Centering:** We propose a cost function to locally correct the robot’s pose and center the object in the camera image. Specifically, the cost function orients the robot and moves it toward the object of interest once the initial viewpoint is reached.
+        <b>Object Centering:</b> We propose a cost function to locally correct the robot’s pose and center the object in the camera image. Specifically, the cost function orients the robot and moves it toward the object of interest once the initial viewpoint is reached.
     </li>
     <li>
-        **Local Search:** When an object is undetected at the chosen viewpoint, we propose a local search method to replan an alternative viewpoint to bring the object into view. We propose a probability map based on the VLPG clusters and the local occupancy map, estimating the likelihood of regions where the object can be localized.
+        <b>Local Search:</b> When an object is undetected at the chosen viewpoint, we propose a local search method to replan an alternative viewpoint to bring the object into view. We propose a probability map based on the VLPG clusters and the local occupancy map, estimating the likelihood of regions where the object can be localized.
     </li>
 </ol>
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Delivered a talk at the FLAIR Talk Series, University of Oxford, on “Decentralized Multi-Agent Navigation in Complex Scenarios."
+Delivered a talk at the <a href="https://foersterlab.com/invited/">FLAIR Talk Series</a>, University of Oxford, on “Decentralized Multi-Agent Navigation in Complex Scenarios."

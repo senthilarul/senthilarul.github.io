@@ -16,7 +16,7 @@ news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-projects: false
+projects: true
 ---
 I am a Ph.D. candidate in <a href="https://ece.umd.edu">Electrical and Computer Engineering</a> at the University of Maryland, College Park, specializing in multi-agent navigation within complex environments under the guidance of <a href="https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en">Prof. Dinesh Manocha</a>. My research integrates robotics, motion planning, and reinforcement learning to advance AI technology. Specifically, I specialize in cooperative navigation and motion planning under uncertainty, exploring innovative solutions for real-world applications. In addition, I completed two internships at <a href="https://amazon.jobs/en/teams/lab126/">Amazon Lab126</a>, specifically with the <a href="https://www.amazon.jobs/content/en/teams/devices-services/consumer-robotics">Consumer Robotics group</a>. Currently, I am interning with <a href="https://usa.honda-ri.com/-/motion-planning-and-interactive-decision-making?redirect=%2F">Honda Research Institute (HRI)</a> for Spring 2025, where I am working on interactive motion planning and decision-making in the context of autonomous vehicles.
 <br><br>

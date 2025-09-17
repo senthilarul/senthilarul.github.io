@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I Defended my Ph.D. dissertation titled “Safe and Efficient Single- and Multi-Robot Autonomy in Complex Scenarios.
+I defended my Ph.D. dissertation titled “Safe and Efficient Single- and Multi-Robot Autonomy in Complex Scenarios.

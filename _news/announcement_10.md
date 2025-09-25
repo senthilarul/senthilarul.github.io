@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I Joined <a href="https://alpha-z.ai/">AlphaZ</a> as the Motion Planning Lead
+Excited to share that I’ve joined <a href="https://alpha-z.ai/">AlphaZ</a> as the Motion Planning Lead
